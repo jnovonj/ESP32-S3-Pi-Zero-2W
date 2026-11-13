@@ -2,7 +2,7 @@
 
 A compact, custom 4-layer development board built around the **ESP32-S3-WROOM-1** module, designed specifically to match the form factor and mounting layout of the **Raspberry Pi Zero 2 W**.
 
-![ESP32-S3 Pi Zero 2 W 3D Render](images/ESP32-S3-Pi-Zero-2W.png)
+![ESP32-S3 Pi Zero 2 W 3D Render](Images/ESP32-S3-Pi-Zero-2W.png)
 
 ---
 
