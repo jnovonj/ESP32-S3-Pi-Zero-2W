@@ -2,6 +2,8 @@
 
 A compact, custom 4-layer development board built around the **ESP32-S3-WROOM-1** module, designed specifically to match the form factor and mounting layout of the **Raspberry Pi Zero 2 W**.
 
+![ESP32-S3 Pi Zero 2 W 3D Render](images/ESP32-S3-Pi-Zero-2W.png)
+
 ---
 
 ## 🚀 Key Features
@@ -36,6 +38,8 @@ Designed for optimized signal integrity and solid power/ground planes:
 ├── CPL/                      # Component Placement List (Pick and Place files)
 ├── Library/                  # Custom schematic symbols and footprints
 ├── database/                 # Component database files
+├── images/                   # Render previews and visual assets
+│   └── ESP32-S3-Pi-Zero-2W.png  # 3D PCB render preview
 ├── ESP32 S3 Pi Zero 2 W.kicad_pro   # KiCad project file
 ├── ESP32 S3 Pi Zero 2 W.kicad_sch   # Schematic design file
 └── ESP32 S3 Pi Zero 2 W.kicad_pcb   # 4-layer PCB layout file
