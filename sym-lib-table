@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ESP32-S3 Pi Zero 2 W_Library")(type "KiCad")(uri "${KIPRJMOD}/Library/ESP32-S3 Pi Zero 2 W_Library.kicad_sym")(options "")(descr ""))
+)
